@@ -5,7 +5,6 @@
 - [Features](#features)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Building](#model-building)
 - [Data Analysis](#data-analysis)
 - [Contributing](#contributing)
@@ -58,6 +57,10 @@ Data analsis is conducted to explore the relationships between input features an
  - [Crop Dataset Analysis](https://github.com/Jay0073/Crop-and-Fertilizer-Recommendation-System/blob/main/cropData-analysis.ipynb)
  - [Fertilizer Dataset Analysis.ipynb](https://github.com/Jay0073/Crop-and-Fertilizer-Recommendation-System/blob/main/fertilizerData-analysis.ipynb)
 
-## Contributing
+## Fertilizer Predictor
+This notebook provides code for user to predict the fertilizer with different parameters.
+ - [Fertilizer Predictor](http://github.com/Jay0073/Crop-and-Fertilizer-Recommendation-System/blob/main/fertilizer-Prediction.ipynb)
+
+## Contribution
 Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request.
     
